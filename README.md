@@ -84,6 +84,32 @@ To run all the tests with Jest, use the following command:
 npm run test
 ```
 
+## [Example using Postman](#Run-all-the-tests)
+---
+Here you can use examples of use, using Postman
+<br>
+
+**New User**
+![new user](/postman/new%20user.png)
+
+**Login**
+![login](/postman/login.png)
+
+**Update Profile**
+![update profile](/postman/update.png)
+
+**Create task**
+![Create task](/postman/new%20task.png)
+
+**Get all task**
+![Get all task](/postman/get%20all%20tasks.png)
+
+**and more...**
+
+```bash
+npm run test
+```
+
 ### [Acknowledgements](#Acknowledgements)
 
 ---
